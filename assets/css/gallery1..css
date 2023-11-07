@@ -1,0 +1,51 @@
+.gal_image1{
+    padding: 0px 70px 0px 10px;
+}
+
+.gapage_1 h1{
+    padding: 40px 0 0px 0;
+        font-size: 55px;
+        font-weight: 470;
+        color: #192a56;
+  }
+
+
+.gal_image2{
+     padding: 0px 90px 20px 90px;
+}
+
+.gal_image3{
+    padding: 0px 90px 10px 90px;
+}
+.imag_title1{
+    padding: 10px 0;
+}
+
+.imag_title2{
+    color: #192a56;
+    /* padding: 0px 0; */
+}
+
+@media screen and (max-width:480px){
+    .gal_image2{
+       display: flex;
+       justify-content: center;
+        padding: 0px 0px 20px 0px;
+   }
+   
+   .gal_image3{
+       padding: 0px 0px 10px 0px;
+   }
+
+   .gal_image1{
+    padding: 0px 0px 0px 0px;
+}
+
+   .imag_title1{
+    padding: 10px 0;
+}
+
+.imag_title2{
+    padding: 10px 0;
+}
+}
